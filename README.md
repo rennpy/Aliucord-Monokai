@@ -3,7 +3,7 @@ Theme based on the [Monokai](https://monokai.pro) colorscheme, for [Aliucord](ht
 
 This theme has multiple variants;
 
-
+Ristretto.
 
 > [!IMPORTANT]
 > If you would like your discord to look exactly like the preview, make sure to have the following plugins installed:
