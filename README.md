@@ -1,2 +1,2 @@
 # Aliucord-Monokai
-Theme based on the Monokai colorscheme, for Aliucord.
+Theme based on the [Monokai](https://monokai.pro) colorscheme, for [Aliucord](https://github.com/Aliucord).
