@@ -4,10 +4,13 @@ Theme based on the [Monokai](https://monokai.pro) colorscheme, for [Aliucord](ht
 This theme has multiple variants;
 
 Ristretto
+![w](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/ceda4783-ffb6-4d35-a29e-88d9a72b7784)
 
 Octagon
+![Octagon](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/65bfbe6e-0782-46be-9e23-62cd8b54b531)
 
 Machine
+![Machine](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/e3898856-efaa-449d-a101-541de7ffc072)
 
 > [!IMPORTANT]
 > If you would like your discord to look exactly like the preview, make sure to have the following plugins installed:
