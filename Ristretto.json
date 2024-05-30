@@ -5,7 +5,11 @@
         "author": "cbani",
         "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/Aliucord-Monokai\/main\/Ristretto.json"
     },
-    "background": {},
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/rennpy\/Aliucord-Monokai\/main\/20240530_135417_0000.png",
+        "overlay_alpha": 6,
+        "blur_radius": 0
+    },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/rennpy\/Aliucord-Monokai\/raw\/main\/Fira_Mono\/FiraMono-Bold.ttf",
         "ginto_medium": "https:\/\/github.com\/rennpy\/Aliucord-Monokai\/raw\/main\/Fira_Mono\/FiraMono-Medium.ttf",
@@ -15,7 +19,7 @@
         "whitney_semibold": "https:\/\/github.com\/rennpy\/Aliucord-Monokai\/raw\/main\/Fira_Code\/static\/FiraCode-SemiBold.ttf"
     },
     "simple_colors": {
-        "mention_highlight": 646496464,
+        "mention_highlight": 651212680,
         "accent": -410553,
         "input_background": -14607332,
         "active_channel": -14607332

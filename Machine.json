@@ -5,7 +5,11 @@
         "author": "cbani",
         "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/Aliucord-Monokai\/main\/Machine.json"
     },
-    "background": {},
+    "background": {
+        "overlay_alpha": 6,
+        "blur_radius": 0,
+        "url": "https:\/\/raw.githubusercontent.com\/rennpy\/Aliucord-Monokai\/main\/20240530_141246_0000.png"
+    },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/rennpy\/Aliucord-Monokai\/raw\/main\/Fira_Mono\/FiraMono-Bold.ttf",
         "ginto_medium": "https:\/\/github.com\/rennpy\/Aliucord-Monokai\/raw\/main\/Fira_Mono\/FiraMono-Medium.ttf",
@@ -15,7 +19,7 @@
         "whitney_semibold": "https:\/\/github.com\/rennpy\/Aliucord-Monokai\/raw\/main\/Fira_Code\/static\/FiraCode-SemiBold.ttf"
     },
     "simple_colors": {
-        "mention_highlight": 646496464,
+        "mention_highlight": 651212680,
         "accent": -410553,
         "input_background": -15328482,
         "active_channel": -14867160
