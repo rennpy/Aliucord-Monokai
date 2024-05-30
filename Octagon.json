@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0",
         "name": "Monokai Octagon",
-        "author": "cbani"
+        "author": "cbani",
+        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/Aliucord-Monokai\/main\/Octagon.json"
     },
     "background": {},
     "fonts": {
