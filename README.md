@@ -1,6 +1,7 @@
 # Aliucord-Monokai
-![blossomed (14)](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/64f3bb61-921b-4ce0-bb80-52ddb612e04c)
 Theme based on the [Monokai](https://monokai.pro) colorscheme, for [Aliucord](https://github.com/Aliucord).
+![blossomed (14)](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/64f3bb61-921b-4ce0-bb80-52ddb612e04c)
+
 
 This theme has multiple variants;
 
