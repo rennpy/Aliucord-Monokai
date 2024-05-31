@@ -1,19 +1,22 @@
 # Aliucord-Monokai
 Theme based on the [Monokai](https://monokai.pro) colorscheme, for [Aliucord](https://github.com/Aliucord).
 
-![blossomed (14)](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/64f3bb61-921b-4ce0-bb80-52ddb612e04c)
+![Monokai](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/3e3e4e8a-5c52-4144-a094-fd2848f83b6c)
 
 
 This theme has multiple variants;
 
 ## Ristretto
-![w](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/ceda4783-ffb6-4d35-a29e-88d9a72b7784)
+![Ristretto](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/10b55e4e-fb11-4877-8c19-0c7620f07dfe)
+
 
 ## Octagon
-![Octagon](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/65bfbe6e-0782-46be-9e23-62cd8b54b531)
+![Octagon](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/24af23aa-e3ea-449c-b140-25996f036b1a)
+
 
 ## Machine
-![Machine](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/e3898856-efaa-449d-a101-541de7ffc072)
+![Machine](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/a6f9f88d-eb6a-4397-8a1d-f4c6a92b1643)
+
 
 > [!IMPORTANT]
 > If you would like your discord to look exactly like the preview, make sure to have the following plugins installed:
