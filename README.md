@@ -1,7 +1,7 @@
 # Aliucord-Monokai
 Theme based on the [Monokai](https://monokai.pro) colorscheme, for [Aliucord](https://github.com/Aliucord).
 
-![h6sfxqVR](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/d57cafdb-d021-45ae-b4fc-062271a33d8b)
+![4SrfzHm3](https://github.com/rennpy/Aliucord-Monokai/assets/158360149/57c5742f-fb67-4f8e-b39a-b8fbd30bfe56)
 
 
 This theme has multiple variants;
